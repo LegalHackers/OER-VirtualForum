@@ -1,4 +1,5 @@
-![](https://i.imgur.com/BWfrZ9G.png)
+![](https://i.imgur.com/54QYrij.png)
+
 
 > [Legal Hackers](https://legalhackers.org/) is a global movement of lawyers, policymakers, designers, technologists, and academics who explore and develop creative solutions to some of the most pressing issues at the intersection of law and technology. Through local meetups, hackathons, and workshops, Legal Hackers spot issues and opportunities where technology can improve and inform the practice of law and where law, legal practice, and policy can adapt to rapidly changing technology.
 > 
@@ -30,40 +31,40 @@ One of the core goals of the OER Virtual Forum is to collecting an inventory of 
 ### OER Examples
 
 **Open Legal Information**
-* https://case.law/
-* https://www.law.cornell.edu/wex/index.html
-* https://osf.io/preprints/lawarxiv
-* https://ojs.law.cornell.edu/index.php/joal
-* https://www.justia.com/
-* https://public.resource.org/index.html
-* https://law.resource.org/
-* http://network.bepress.com/law/
+* [https://case.law/](https://case.law/)
+* [https://www.law.cornell.edu/wex/index.html](https://www.law.cornell.edu/wex/index.html)
+* [https://osf.io/preprints/lawarxiv](https://osf.io/preprints/lawarxiv)
+* [https://ojs.law.cornell.edu/index.php/joal](https://ojs.law.cornell.edu/index.php/joal)
+* [https://www.justia.com/](https://www.justia.com/)
+* [https://public.resource.org/index.html](https://public.resource.org/index.html)
+* [https://law.resource.org/](https://law.resource.org/)
+* [http://network.bepress.com/law/](http://network.bepress.com/law/)
 
 **Open Bookstores**
-* https://www.cali.org/the-elangdell-bookstore
-* https://open.umn.edu/opentextbooks/subjects/law
+* [https://www.cali.org/the-elangdell-bookstore](https://www.cali.org/the-elangdell-bookstore)
+* [https://open.umn.edu/opentextbooks/subjects/law](https://open.umn.edu/opentextbooks/subjects/law)
 
 **Open Authoring Platforms**
-* https://opencasebook.org
-* https://pressbooks.com/ 
+* [https://opencasebook.org](https://opencasebook.org)
+* [https://pressbooks.com/](https://pressbooks.com/)
 
 **Open Courses**
-* http://madisonian.net/home/?page_id=1260
-* https://law.duke.edu/cspd/openip/
+* [http://madisonian.net/home/?page_id=1260](http://madisonian.net/home/?page_id=1260)
+* [https://law.duke.edu/cspd/openip/](https://law.duke.edu/cspd/openip/)
 
 **Open Syllabus Information**
-* https://opensyllabus.org/
+* [https://opensyllabus.org/](https://opensyllabus.org/)
 
 **Open Citation Manuals**
-* https://law.resource.org/pub/us/code/blue/IndigoBook.html
+* [https://law.resource.org/pub/us/code/blue/IndigoBook.html](https://law.resource.org/pub/us/code/blue/IndigoBook.html)
 
 **Open Graphics**
-* https://ccsearch.creativecommons.org/
-* https://www.behance.net/
-* https://thenounproject.com/
+* [https://ccsearch.creativecommons.org/](https://ccsearch.creativecommons.org/)
+* [https://www.behance.net/](https://www.behance.net/)
+* [https://thenounproject.com/](https://thenounproject.com/)
 
 **Open Source Licenses**
-* https://opensource.org/licenses
+* [https://opensource.org/licenses](https://opensource.org/licenses)
 
 **Open Education Resources Workshop Materials**
 * [OER for Law Worksheet](https://docs.google.com/document/d/1Am9IGAWQ9JWv0SDCnk6ldoZg17weqnUViIoXaaVLklM/edit)
@@ -72,5 +73,5 @@ One of the core goals of the OER Virtual Forum is to collecting an inventory of 
 
 ![](https://i.imgur.com/eWA88Yy.png)
 
-https://docs.google.com/document/d/1hMrXoJJBpVD_UxOPrMVWGgpSwfEHZ8tHM8DBDe74dAg/edit
+[https://docs.google.com/document/d/1hMrXoJJBpVD_UxOPrMVWGgpSwfEHZ8tHM8DBDe74dAg/edit](https://docs.google.com/document/d/1hMrXoJJBpVD_UxOPrMVWGgpSwfEHZ8tHM8DBDe74dAg/edit)
 
