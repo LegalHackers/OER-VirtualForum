@@ -51,6 +51,7 @@ One of the core goals of the OER Virtual Forum is to collecting an inventory of 
 **Open Courses**
 * [http://madisonian.net/home/?page_id=1260](http://madisonian.net/home/?page_id=1260)
 * [https://law.duke.edu/cspd/openip/](https://law.duke.edu/cspd/openip/)
+* [https://ocw.mit.edu/courses/architecture/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/](https://ocw.mit.edu/courses/architecture/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/)
 
 **Open Syllabus Information**
 * [https://opensyllabus.org/](https://opensyllabus.org/)
