@@ -16,7 +16,7 @@ Open Educational Resources (OER) are educational and research resources freely a
 * Create a message baord/wiki for OER tools and best practices.
 
 If you would like to participate in the OER Virtual Forum, please fill out the following Google Form:
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfs7PXMARRWDbL7uQJ4viZNY-BwCrLnbQZVmpUXDHUhpQTIFg/viewform?embedded=true" width="400" height="948" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfs7PXMARRWDbL7uQJ4viZNY-BwCrLnbQZVmpUXDHUhpQTIFg/viewform?embedded=true" width="375" height="948" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 
@@ -26,7 +26,7 @@ If you would like to participate in the OER Virtual Forum, please fill out the f
 
 One of the core goals of the OER Virtual Forum is to collecting an inventory of OER Resources that can be made usable across all Legal Hackers Chapters. If you would like to contribute a list of OER content, please complete the following Google Form. If you are still wondering what OER for Law looks like, we have a few examples listed below the Google Form.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeMri_7wNHhdYgMXvjktkrHm3Vmd7nCoz2qNIje0xqsMFN1CA/viewform?embedded=true" width="400" height="1893" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeMri_7wNHhdYgMXvjktkrHm3Vmd7nCoz2qNIje0xqsMFN1CA/viewform?embedded=true" width="375" height="1893" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ### OER Examples
 
