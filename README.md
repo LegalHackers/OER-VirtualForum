@@ -74,5 +74,6 @@ One of the core goals of the OER Virtual Forum is to collecting an inventory of 
 
 ![](https://i.imgur.com/eWA88Yy.png)
 
-[https://docs.google.com/document/d/1hMrXoJJBpVD_UxOPrMVWGgpSwfEHZ8tHM8DBDe74dAg/edit](https://docs.google.com/document/d/1hMrXoJJBpVD_UxOPrMVWGgpSwfEHZ8tHM8DBDe74dAg/edit)
+* Google Doc: [https://docs.google.com/document/d/1hMrXoJJBpVD_UxOPrMVWGgpSwfEHZ8tHM8DBDe74dAg/edit](https://docs.google.com/document/d/1hMrXoJJBpVD_UxOPrMVWGgpSwfEHZ8tHM8DBDe74dAg/edit)
+* Google Slides: [https://docs.google.com/presentation/d/1iMzQm1ijsa3XWWa3gsEaqb0LP1walRJDvltX5QI4QUc/edit#slide=id.p](https://docs.google.com/presentation/d/1iMzQm1ijsa3XWWa3gsEaqb0LP1walRJDvltX5QI4QUc/edit#slide=id.p)
 
