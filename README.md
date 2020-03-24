@@ -67,7 +67,7 @@ One of the core goals of the OER Virtual Forum is to collecting an inventory of 
 **Open Source Licenses**
 * [https://opensource.org/licenses](https://opensource.org/licenses)
 
-**Open Education Resources Workshop Materials**
+**Open Education Resources Workshop Canvas**
 * [OER for Law Worksheet](https://docs.google.com/document/d/1Am9IGAWQ9JWv0SDCnk6ldoZg17weqnUViIoXaaVLklM/edit)
 
 ## 2019 Legal Hackers Global Summit OER Workshop Material
