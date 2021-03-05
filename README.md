@@ -1,4 +1,4 @@
-**| [Home](https://legalhackers.github.io/OER-VirtualForum/) | [Inventory](https://legalhackers.github.io/OER-VirtualForum/Inventory.html) | [Examples](https://legalhackers.github.io/OER-VirtualForum/Examples.html) | [Toolkit](https://legalhackers.github.io/OER-VirtualForum/Toolkit.html) |**
+| [Home](https://legalhackers.github.io/OER-VirtualForum/) | [Inventory](https://legalhackers.github.io/OER-VirtualForum/Inventory.html) | [Examples](https://legalhackers.github.io/OER-VirtualForum/Examples.html) | [Toolkit](https://legalhackers.github.io/OER-VirtualForum/Toolkit.html) |
 
 # Home
 
