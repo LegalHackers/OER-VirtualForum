@@ -2,6 +2,8 @@
 
 # OER Examples
 
+![](https://i.imgur.com/vqzqcfU.png)
+
 **Open Legal Information**
 * [Harvard's Caselaw Access Project](https://case.law/)
 * [Cornell's Legal Information Institute](https://www.law.cornell.edu/wex/index.html)
