@@ -2,7 +2,7 @@
 
 # Inventory of OER Resources
 
-![](https://i.imgur.com/TUrgZnj.png)
+![](https://i.imgur.com/UgDQUTz.png)
 
 One of the core goals of the OER Virtual Forum is to collecting an inventory of OER Resources that can be made usable across all Legal Hackers Chapters. If you would like to contribute a list of OER content, please complete the following Google Form. If you are still wondering what OER for Law looks like, we have a few examples listed below the Google Form.
 
