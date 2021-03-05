@@ -2,7 +2,7 @@
 
 # OER Toolkit
 
-![](https://i.imgur.com/eWA88Yy.png)
+![](https://i.imgur.com/o2EOO96.png)
 
 ### Digital Whiteboarding
 * [Miro](https://miro.com/app/)
