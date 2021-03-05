@@ -1,6 +1,7 @@
+| [Home](https://legalhackers.github.io/OER-VirtualForum/) | [Inventory](https://legalhackers.github.io/OER-VirtualForum/Inventory.html) | [Examples](https://legalhackers.github.io/OER-VirtualForum/Examples.html) | [Toolkit](https://legalhackers.github.io/OER-VirtualForum/Toolkit.html) |
+|----|----|----|---|
+
 # OER Toolkit
-| [Home]() | [Inventory]() | [Examples]() | [Toolkit]() |
-| -------- | ------------- | ------------ | ----------- |
 
 ![](https://i.imgur.com/eWA88Yy.png)
 
