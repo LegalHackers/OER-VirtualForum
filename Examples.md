@@ -1,6 +1,8 @@
+| [Home](https://legalhackers.github.io/OER-VirtualForum/) | [Inventory](https://legalhackers.github.io/OER-VirtualForum/Inventory.html) | [Examples](https://legalhackers.github.io/OER-VirtualForum/Examples.html) | [Toolkit](https://legalhackers.github.io/OER-VirtualForum/Toolkit.html) |
+|----|----|----|---|
+
 # OER Examples
-| [Home]() | [Inventory]() | [Examples]() | [Toolkit]() |
-| -------- | ------------- | ------------ | ----------- |
+
 **Open Legal Information**
 * [Harvard's Caselaw Access Project](https://case.law/)
 * [Cornell's Legal Information Institute](https://www.law.cornell.edu/wex/index.html)
