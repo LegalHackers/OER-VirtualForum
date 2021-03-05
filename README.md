@@ -10,8 +10,7 @@
 
 # OER for Law - Virtual Forum
 
-![](https://i.imgur.com/BltJTWk.png)
-
+![](https://i.imgur.com/xXq1Foy.png)
 
 Open Educational Resources (OER) are educational and research resources freely available with the permissions to modify and share copies of the works. To that end, this virtual open forum will:
 * Provide space for discussion about how OER models might positively affect legal education and access to the law,
