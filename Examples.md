@@ -4,7 +4,7 @@
 
 ![](https://i.imgur.com/vqzqcfU.png)
 
-**Open Legal Information**
+### Open Legal Information
 * [Harvard's Caselaw Access Project](https://case.law/)
 * [Cornell's Legal Information Institute](https://www.law.cornell.edu/wex/index.html)
 * [Open Science Foundation's LawArXiv](https://osf.io/preprints/lawarxiv)
@@ -16,32 +16,35 @@
 * [Google Scholar](https://scholar.google.com/)
 * [Social Science Research Network](https://www.ssrn.com/index.cfm/en/)
 
-**Open Bookstores**
+### Open Bookstores
 * [eLangdell](https://www.cali.org/the-elangdell-bookstore)
 * [Open Textbook Library](https://open.umn.edu/opentextbooks/subjects/law)
 
-**Open Authoring Platforms**
+### Open Authoring Platforms
 * [H2O Open Casebooks](https://opencasebook.org)
 * [Pressbooks](https://pressbooks.com/)
 
-**Open Courses**
+### Open Courses
+* [edX](https://www.edx.org/)
+* [Youtube](https://www.youtube.com/)
 * [Madisonian.net](http://madisonian.net/home/?page_id=1260)
 * [Open Intellectual Property Casebook](https://law.duke.edu/cspd/openip/)
 * [Citizen-Centered Design of Open Governance Systems](https://ocw.mit.edu/courses/architecture/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/)
 
-**Open Syllabus Information**
+### Open Syllabus Information
 * [OpenSyllabus.org](https://opensyllabus.org/)
+* [Syllabi Commons](https://techforlawstudents.classcaster.net/syllabi-commons/)
 
-**Open Citation Manuals**
+### Open Citation Manuals
 * [The Indigo Book](https://law.resource.org/pub/us/code/blue/IndigoBook.html)
 
-**Open Graphics**
+### Open Graphics
 * [Creative Commons Image Search](https://ccsearch.creativecommons.org/)
 * [Behance](https://www.behance.net/)
 * [The Noun Project](https://thenounproject.com/)
 
-**Open Source Licenses**
+### Open Source Licenses
 * [Open Source Initiative](https://opensource.org/licenses)
 
-**Open Education Resources Workshop Canvas**
+### Open Education Resources Workshop Canvas
 * [OER for Law Worksheet](https://docs.google.com/document/d/1Am9IGAWQ9JWv0SDCnk6ldoZg17weqnUViIoXaaVLklM/edit)
